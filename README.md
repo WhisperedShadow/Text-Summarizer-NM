@@ -47,7 +47,7 @@ python -m spacy download en_core_web_sm
 ```
 NLTK data (punkt, stopwords) will download automatically when you run the app the first time.
 
-▶️ Run the App
+4. ▶️ Run the App
 ```bash
 python app.py
 ```
@@ -65,8 +65,8 @@ text_summarizer/
 └── README.md
 ```
 
-✍️ Example
-Input:
+## ✍️ Example
+### Input:
 
 Natural language processing (NLP) is a subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language.
 
@@ -74,8 +74,3 @@ Summary Output:
 
 Natural language processing (NLP) is a subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language.
 
-javascript
-Copy
-Edit
-
-Would you like this saved as a `README.md` file?
